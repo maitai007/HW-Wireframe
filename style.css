@@ -6,7 +6,6 @@ body {
     font-size: 18px;
     text-align: center;
     margin: 0 auto;
-
 }
 
 header {
@@ -31,8 +30,8 @@ section {
     float: left;
     width: 52%;
     height: 275px;
-	margin: 20px auto 10px auto;
-	padding: 30px 10px 10px;   
+    margin: 20px auto 10px auto;
+    padding: 30px 10px 10px;   
 }
 
 aside {
@@ -41,8 +40,8 @@ aside {
     float: right;
     width: 46%;
     height: 275px;
-	margin: 20px auto 10px auto;
-	padding: 30px 10px 10px;
+    margin: 20px auto 10px auto;
+    padding: 30px 10px 10px;
 }
 
 article {
@@ -50,8 +49,7 @@ article {
     color: #ebebeb;
     background-color: #777;
     margin: 40px 10px 10px 10px;
-	padding: 20px 10px 10px 10px;
-
+    padding: 20px 10px 10px 10px;    
 }
 
 .box1 {
@@ -59,16 +57,16 @@ article {
     color: #777;
     background-color: #ebebeb;
     font-weight: bold;
-	padding: 10px;
-	margin: 10px 10px;
+    padding: 10px;
+    margin: 10px 10px;
 }
 
 p {
     box-sizing: border-box;
     color: #777;
     background-color: #ebebeb;
-	padding: 10px;
-	margin: 10px 10px;
+    padding: 10px;
+    margin: 10px 10px;
 }
 
 .clearfix {
